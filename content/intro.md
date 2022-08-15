@@ -1,21 +1,11 @@
 ---
-title: Introduction
-subtitle: A Tale of Two Photographers
+title: Preface
+subtitle:
 weight: 3
 type: splash
 image: figures/lange-house.jpg
 ---
 
-Dorothea Lange had an extraordinary life and career as a prolific photographer. She worked for Arnold Genthe in his portrait studio in New York and studied photography with Clarence White at Columbia University. In 1918 she began to travel around the world to make her living as a photographer. She found herself stranded in San Francisco, so she opened a photographic studio there. Paul Taylor, who would become her second husband, hired her to document migratory workers in California.
+This project is a culmination of my time as an intern at the wonderful publications department at the Getty. Like the blankets my aunt Anu would stitch together, it is a patchwork: comprised of my research on Indian textile histories (particularly Kalamkari from the Coromandel Coast); an outpouring of stories I have heard about my aunts’ own childhoods as well as my memories with them; and extracts from writings by feminist Indian authors who documented and elevated the invisible struggles of married Indian women and mothers so they could be seen (sometimes for the first time).
 
-{{< q-figure id="dog1" class="is-pulled-right" >}}
-
-In 1935 she began to work for the Resettlement Administration, later known as the Farm Security Administration ([fig. 1](#dog1)). During this period, she made her most famous image, [*Human Erosion in California (Migrant Mother)*](/catalogue/1/), of Native American Florence Owens Thompson and her children in a pea-pickers' camp. Other less famous subjects included Japanese internment camps and scenes of workers in factories during World War II. Lange became the first woman awarded a Guggenheim fellowship, and she spent nearly ten years making photo essays for *Life* and other magazines. She also traveled extensively, making photo essays in Vietnam, Ireland, Pakistan, India, and elsewhere.
-
-{{< q-figure id="dog2" class="is-pulled-left" >}}
-
-Walker Evans began to photograph in the late 1920s, making snapshots during a European trip. Upon his return to New York, he published his first images in 1930. During the Great Depression, Evans began to photograph for the Resettlement Administration, later known as the Farm Security Administration (FSA), documenting workers and architecture in the Southeastern states ([fig. 2](#dog2)). In 1936 he traveled with the writer James Agee to illustrate an article on tenant farm families for *Fortune* magazine; the book *Let Us Now Praise Famous Men* came out of this collaboration.
-
-Throughout his career Evans contributed photographs to numerous publications, including three devoted solely to his work. In 1965 he left Fortune, where he had been a staff photographer for twenty years, to become a professor of photography and graphic design at Yale University. He remained in the position until 1974, a year before his death.
-
-{{< q-figure id="photo-podcast" >}}
+I do not exist in isolation. I am a tapestry of my own, woven together by the cultural and artistic heritage I inherited from the women of my family and the feminist scholars and authors of my country. Here, Indian textile histories intersect with my own penchant for art-making and my positionality within Los Angeles’ socio-political landscape. So, reader, as you traverse through this archive of-sorts, remember that everything is intertwined, every strand connected to the other. Ultimately, remember that the importance of this publication is simply the fact that it is here, blinking awake on your computer screen, unfurling under the rhythmic clicks of your keyboard. I am here, holding out these erased, obscured histories for you to see, making up for the ways that they were hidden from me as I was growing up.  

@@ -4,7 +4,7 @@
 
 <div class="{{ if eq $.Site.Params.pdf true }} visually-hidden {{ end }} quire-contents-buttons remove-from-epub">
   <ul>
-    
+
       {{- $previousPages := where $pages "Weight" "lt" .Weight -}}
       {{- if gt (len $previousPages) 0 -}}
       {{- range last 1 $previousPages -}}
@@ -14,7 +14,7 @@
       </li>
       {{- end -}}
       {{- end -}}
-      
+
       {{- $nextPages := where $pages "Weight" "gt" .Weight -}}
       {{- if gt (len $nextPages) 0 -}}
       {{- range first 1 $nextPages -}}
@@ -24,6 +24,6 @@
       </li>
       {{- end -}}
       {{- end -}}
-      
+
   </ul>
 </div>

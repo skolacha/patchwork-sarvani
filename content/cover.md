@@ -5,7 +5,9 @@ menu: false
 type: cover
 slug: .
 toc: false
-image: pattern-spiral-overlay.png
+image: figures/kalamkari-cover.png
 ---
 
-In the 1930s, during America's worst financial crises, the administration of President Franklin D. Roosevelt employed photographers to document the plight of everyday folk in the Great Depression in order to push forward with their New Deal programs. Documentary photographers Dorothea Lange and Walker Evans were prolific frontrunners of these efforts and their extraordinary photographs continue to endure today. Their artistic and documentary mastery and historical importance provide key insight into a monumental turning point in American history.
+Sudha Murthy always starts her tales with, “Let me tell you a story.” I know, because those hot Indian summers, when plants clung to the vine limply, and all I wanted was a pocket of inky black shade to swallow me up—then, I would read. It was the only escape that didn’t involve unleashing floods of water on my parched throat or sticking my head in our fridge until my mother snuck up behind me, eyes-narrowed, reprimands about electricity-wasting on the tip of her tongue.
+
+Yet the sad truth I have discovered—over the instances I chose to pick up a pen rather than a book and try my hand at writing—is that as I have not attained beloved Indian grandmother status, I’m not always awarded the same affordances as Ms. Murthy. English teachers are not as charmed with the 39th usage of, “Let me tell you a story” as they were the first time you used it. So, instead, I’ll begin my story elsewhere: with a cab driver, three suitcases stuffed full of clothes and Maggi packets, and hands ornately decorated with henna.

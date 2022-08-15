@@ -1,90 +1,198 @@
 figure_list:
-  - id: "dog1"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "dog2"
-    src: figures/evans.jpg
-    caption: "*Walker Evans, profile, hand up to face*, 1937."
-    credit: "Library of Congress Prints and Photographs Division"
-  - id: "fig-1"
-    label: "Figure 1"
-    src: figures/evans-legionnaire.jpg
-    caption: "Walker Evans. *[American Legionnaire]*, 1935. "
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-2"
-    label: "Figure 2"
-    src: figures/evans-sons.jpg
-    caption: "Walker Evans. *Sons of the American Legion, Bethlehem, Pennsylvania*, 1935."
-    credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-3"
-    label: "Figure 3"
-    src: figures/evans-graveyard.jpg
+  - id: "kalamkari-fig1"
+    label: "Coromandel Coast"
+    src: figures/kalamkari-fig1.jpg
+    caption: "SOMETHING Map of the Coromandel Coast"
+    credit: "CREDIT LINE"
+    alt text:
+  - id: "kalamkari-fig2"
+    label: "LABEL"
+    src: figures/kalamkari-fig2.jpg
+    caption: "MAT SOMETHING"
+    credit: "CREDIT LINE"
+  - id: "kalamkari-fig3"
+    label: "Dutch LABEL"
+    src: figures/kalamkari-fig3.jpg
     caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
     credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-4"
-    label: "Figure 4"
-    src: figures/evans-hymns.jpg
+  - id: "kalamkari-fig4"
+    label: "LABEL"
+    src: figures/kalamkari-fig4.jpg
     caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-5"
+  - id: "kalamkari-fig5"
     label: "Figure 5"
-    src: figures/evans-burroughs.jpg
+    src: figures/kalamkari-fig5.jpg
     caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-6"
+  - id: "kalamkari-fig6"
     label: "Figure 6"
-    src: figures/evans-washroom.jpg
+    src: figures/kalamkari-fig6.jpg
     caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-7"
+  - id: "rk-fig1"
+    label:
+    src: figures/rk-fig1.png
+    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "rk-fig2"
+    label:
+    src: figures/rk-fig2.png
+    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "rk-fig3"
+    label:
+    src: figures/rk-fig3.png
+    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "rk-fig4"
+    label:
+    src: figures/rk-fig4.png
+    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "rk-fig5"
+    label:
+    src: figures/rk-fig5.png
+    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "lotus-fig1a"
     label: "Figure 7"
-    src: figures/evans-child.jpg
+    src: figures/lotus-fig1a.jpg
     caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "fig-8"
+  - id: "lotus-fig1b"
+    label: "Figure 7"
+    src: figures/lotus-fig1b.jpeg
+    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
+    credit: "The J. Paul Getty Museum, Los Angeles"
+  - id: "lotus-fig2"
     label: "Figure 8"
-    src: figures/evans-refugee.jpg
+    src: figures/lotus-fig2.jpg
     caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
     credit: "The J. Paul Getty Museum, Los Angeles"
-  - id: "lange-house"
-    src: figures/lange-house.jpg
+  - id: "lotus-fig3"
+    src: figures/lotus-fig3.jpg
     caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
     credit: The J. Paul Getty Museum, Los Angeles
-  - id: "evans-video"
-    src: figures/evans-video-still.jpg
-    media_id: BpGN0UUtqqU
-    media_type: youtube
-    caption: "A selection of Walker Evans photos from the across the United States of America, 1930s."
+  - id: "lotus-fig4"
+    src: figures/lotus-fig4.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
     credit: The J. Paul Getty Museum, Los Angeles
+  - id: "lotus-fig5"
+    src: figures/lotus-fig5.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "lotus-fig6"
+    src: figures/lotus-fig6.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig1"
+    label:
+    src: figures/boteh-fig1.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig2"
+    label:
+    src: figures/boteh-fig2.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig3"
+    label:
+    src: figures/boteh-fig3.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig4"
+    label:
+    src: figures/boteh-fig4.jpeg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig5"
+    label:
+    src: figures/boteh-fig5.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig6"
+    label:
+    src: figures/boteh-fig6.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig7"
+    label:
+    src: figures/boteh-fig7.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig8"
+    label:
+    src: figures/boteh-fig8.jpeg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig9"
+    label:
+    src: figures/boteh-fig9.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig10"
+    label:
+    src: figures/boteh-fig10.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig11"
+    label:
+    src: figures/boteh-fig11.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig12"
+    label:
+    src: figures/boteh-fig12.jpeg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "boteh-fig13"
+    label:
+    src: figures/boteh-fig13.jpg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "amma-fig1"
+    label:
+    src: figures/amma-fig1.JPG
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "amma-fig2"
+    label:
+    src: figures/amma-fig2.JPG
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "amma-fig3"
+    label:
+    src: figures/amma-fig3.JPG
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "amma-fig4"
+    label:
+    src: figures/amma-fig4.JPG
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "amma-fig5"
+    label:
+    src: figures/amma-fig5.JPG
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "amma-fig6"
+    label:
+    src: figures/amma-fig6.JPG
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "amma-fig7"
+    label:
+    src: figures/amma-fig7.JPG
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+  - id: "ff-fig1"
+    label:
+    src: figures/ff-fig1.jpeg
+    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
+    credit: The J. Paul Getty Museum, Los Angeles
+
   - id: "photo-podcast"
     media_id: 336879231
     media_type: soundcloud
     caption: "Echoing the work of Lange and Evans, contemporary photographer Chris Killip documents social landscapes and is known for a series of powerful images of struggling industrial communities in North East England."
-  - id: "mother"
-    src: figures/mother.jpg
-    caption: "Dorothea Lange, *Human Erosion in California / Migrant Mother*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "mother-b"
-    src: figures/mother-b.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "mother-c"
-    src: figures/mother-c.jpg
-    caption: "Dorothea Lange, alternate version of *Migrant Mother*, 1936."
-    credit: Library of Congress Prints and Photographs Division
-  - id: "pickers"
-    src: figures/pickers.jpg
-    caption: "Dorothea Lange, *Pea Pickers, Nipomo, California*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "duo"
-    src: figures/duo.jpg
-    caption: "Walker Evans, *Bud Fields with His Wife Ivy, and His Daughter Ellen, Hale County, Alabama*, 1936."
-    credit: The J. Paul Getty Museum, Los Angeles
-    download: true
-  - id: "family"
-    src: figures/family.jpg
-    caption: "Walker Evans, *Burrough’s Family, Hale County, Alabama*, 1935."
-    credit: The J. Paul Getty Museum, Los Angeles
-
