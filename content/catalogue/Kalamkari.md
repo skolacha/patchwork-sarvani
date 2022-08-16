@@ -19,7 +19,7 @@ As textile scholar Rta Kapur Chishti has said in her TED Talk about Indian fabri
 
 >“it is a garment capable of being refashioned constantly.”
 
-{{<q-figure-group id="kalamkari-fig2, kalamkari-fig3, kalamkari-fig4, kalamkari-fig5, kalamkari-fig6" grid="6">}}
+{{<q-figure-group id="kalamkari-fig2, kalamkari-fig4, kalamkari-fig5" grid="1">}}
 
 Later, writer George Eliot unintentionally coined the use of ‘chintzy’ to refer to a gaudy, tasteless fabric—thus, with one broad stroke, erasing centuries of Indian and South Asian histories. This aligns with (V&A senior curator) Dr. Rosemary Crill’s explanation that in the late 17th century, chintz was mainly used as ornamentation or decoration of domestic settings, as it “was mainly seen as a feminine, informal, fabric”.    
 

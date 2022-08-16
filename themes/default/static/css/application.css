@@ -9345,7 +9345,7 @@ html {
   min-height: calc(95vh - 3rem - 5px);
   background-position: center center;
   background-repeat: no-repeat;
-  background-size: cover; }
+  /*    background-size: cover; */ }
   @media print {
     .quire-cover__overlay {
       height: 100%; } }

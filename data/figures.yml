@@ -1,50 +1,50 @@
 figure_list:
   - id: "kalamkari-fig1"
-    label: "Coromandel Coast"
+    label:
     src: figures/kalamkari-fig1.jpg
-    caption: "SOMETHING Map of the Coromandel Coast"
-    credit: "CREDIT LINE"
+    caption: "Map of the Coromandel Coast bordering the Bay of Bengal."
+    credit: "The British Museum."
     alt text:
   - id: "kalamkari-fig2"
-    label: "LABEL"
+    label:
     src: figures/kalamkari-fig2.jpg
-    caption: "MAT SOMETHING"
-    credit: "CREDIT LINE"
+    caption: "Rectangular cotton rumal (*coverlet*), painted and resist-dyed, with floral border and cartouches with figures showing courtly pursuits. ca. 1625—1650."
+    credit: "Victoria & Albert Museum."
   - id: "kalamkari-fig3"
-    label: "Dutch LABEL"
+    label:
     src: figures/kalamkari-fig3.jpg
-    caption: "Walker Evans. *Graveyard, Houses and Steel Mill, Bethlehem, Pennsylvania*, 1935; printed later."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption:
+    credit:
   - id: "kalamkari-fig4"
-    label: "LABEL"
+    label:
     src: figures/kalamkari-fig4.jpg
-    caption: "Walker Evans. *Alabama Tenant Farmer Family Singing Hymns / The Tengle Family, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Square cotton palampore, mordant- and resist-dyed, featuring a mix of Chinese and western motifs. ca. 1700—ca. 1725."
+    credit: "Victoria & Albert Museum."
   - id: "kalamkari-fig5"
-    label: "Figure 5"
+    label:
     src: figures/kalamkari-fig5.jpg
-    caption: "Walker Evans. *Floyd and Lucille Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Cotton chintz cape, mordant- and resist-dyed, patched together from smaller fragments, for the Dutch market. c. 1750."
+    credit: "Victoria & Albert Museum."
   - id: "kalamkari-fig6"
-    label: "Figure 6"
+    label:
     src: figures/kalamkari-fig6.jpg
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption:
+    credit:
   - id: "rk-fig1"
     label:
     src: figures/rk-fig1.png
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Pink and indigo naturally dyed Pedana Kalamkari sari from Metaphor Racha collection."
+    credit: "Sarvani Kolachana. Ravi Kiran Metaphor Racha Collection."
   - id: "rk-fig2"
     label:
     src: figures/rk-fig2.png
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Green and brown naturally dyed Pedana Kalamkari sari from Metaphor Racha collection."
+    credit: "Sarvani Kolachana. Ravi Kiran Metaphor Racha Collection."
   - id: "rk-fig3"
     label:
     src: figures/rk-fig3.png
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Red, green, and yellow naturally dyed Pedana Kalamkari sari from Metaphor Racha collection."
+    credit: "Sarvani Kolachana. Ravi Kiran Metaphor Racha Collection."
   - id: "rk-fig4"
     label:
     src: figures/rk-fig4.png
