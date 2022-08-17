@@ -156,6 +156,10 @@
   background-size: auto;
 }
 
-.quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .section.quire-page__content{
+.quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .section.quire-page__content {
+  background-color: #C39027;
+}
+
+.quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .quire-page__header.hero {
   background-color: #C39027;
 }
