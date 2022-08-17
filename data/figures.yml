@@ -18,7 +18,7 @@ figure_list:
   - id: "kalamkari-fig4"
     label:
     src: figures/kalamkari-fig4.jpg
-    caption: "Square cotton palampore, mordant- and resist-dyed, featuring a mix of Chinese and western motifs. ca. 1700—ca. 1725."
+    caption: "Square cotton palampore (*bed cover*), mordant- and resist-dyed, featuring a mix of Chinese and western motifs. ca. 1700—ca. 1725."
     credit: "Victoria & Albert Museum."
   - id: "kalamkari-fig5"
     label:
@@ -56,36 +56,33 @@ figure_list:
     caption: "Red and indigo naturally dyed (Metaphor Racha) Pedana Kalamkari sari."
     credit: "Sarvani Kolachana/Ravi Kiran Metaphor Racha Collection."
   - id: "lotus-fig1a"
-    label: 
     src: figures/lotus-fig1a.jpg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Painted cotton kalamkari hanging, square field filled with colorful floral stems on a white ground. 18th—19th century."
+    credit: "Victoria & Albert Museum."
   - id: "lotus-fig1b"
-    label: "Figure 7"
     src: figures/lotus-fig1b.jpeg
-    caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Sarasa with small rosettes, probably inspired by Edo and Kyoto sarasa manuals evoking Japanese Buddhist iconography of lotuses, made for Japanese market. 18th century."
+    credit: "The Metropolitan Museum of Art."
   - id: "lotus-fig2"
-    label: "Figure 8"
     src: figures/lotus-fig2.jpg
-    caption: "Walker Evans. *Arkansas Flood Refugee*, 1937."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Cotton textile fragment, printed and mordant- and resist-dyed, possibly made in Gujarat or Coromandel Coast. 15th-16th century."
+    credit: "Victoria & Albert Museum."
   - id: "lotus-fig3"
     src: figures/lotus-fig3.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton textile fragment, printed and mordant- and resist-dyed, possibly made in Gujarat or Coromandel Coast. 15th century."
+    credit: "Victoria & Albert Museum"
   - id: "lotus-fig4"
     src: figures/lotus-fig4.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Part of palampore (*bed cover*) of mordant- and resist-dyed cotton chintz, with flowering tree growing upon exposed roots from a mound. Early 18th century."
+    credit: "Victoria & Albert Museum."
   - id: "lotus-fig5"
     src: figures/lotus-fig5.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton patka (*sash*), printed and mordant- and resist-dyed, deep border enclosing row of five vertical floral cocksomb sprays. 18th century."
+    credit: "Victoria & Albert Museum."
   - id: "lotus-fig6"
     src: figures/lotus-fig6.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton child-sized patka (*sash*), printed and mordant- and resist-dyed, featuring meandering floral stem of red blossoms. 18th century."
+    credit: "Victoria & Albert Museum."
   - id: "boteh-fig1"
     label:
     src: figures/boteh-fig1.jpg
