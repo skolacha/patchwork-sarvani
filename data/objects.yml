@@ -29,13 +29,6 @@ object_list:
       - id: "lotus-fig5"
       - id: "lotus-fig6"
   - id: 3
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/objects/45651/
     figure:
       - id: "amma-fig1"
       - id: "amma-fig2"
