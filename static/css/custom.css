@@ -58,11 +58,6 @@
   color: white;
 }
 
-/*added light gray backgrnd color from top and remiander of page*/
-.quire-page__content {
-  background-color: #white;
-}
-
 .quire-page__header {
   background-color: #white !important;
 }
@@ -98,13 +93,13 @@
 
 /*Sarvani's Cover Changes!*/
 /*change nav button next style*/
-.quire-cover .quire-contents-buttons ul li.quire-nav-button.next:hover {
+.quire-cover .quire-contents-buttons ul li.quire-nav-button.next {
   background-color: #CF4747;
   border-color: #CF4747;
   border-radius: 17px;
 }
 
-.quire-cover .quire-contents-buttons ul li.quire-nav-button.next {
+.quire-cover .quire-contents-buttons ul li.quire-nav-button.next:hover {
   border-color: #C39027;
   background-color: #C39027;
   border-radius: 18px;
@@ -159,4 +154,8 @@
 
 .quire-cover___overlay {
   background-size: auto;
+}
+
+.quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .section.quire-page__content{
+  background-color: #C39027;
 }
