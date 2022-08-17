@@ -56,7 +56,7 @@ figure_list:
     caption: "Red and indigo naturally dyed (Metaphor Racha) Pedana Kalamkari sari."
     credit: "Sarvani Kolachana/Ravi Kiran Metaphor Racha Collection."
   - id: "lotus-fig1a"
-    label: "Figure 7"
+    label: 
     src: figures/lotus-fig1a.jpg
     caption: "Walker Evans. *Farmer's Child, Alabama / Othel Lee (Squeakie) Burroughs, Hale County, Alabama*, 1936."
     credit: "The J. Paul Getty Museum, Los Angeles"
