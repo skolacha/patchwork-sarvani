@@ -1,0 +1,177 @@
+/* removes default cover background gradient */
+.quire-cover__hero {
+  background-image: none;
+}
+
+.heavy {
+  font-weight: 800;
+}
+
+/* make progress bar visible */
+.quire-progress-bar {
+  height: 15px;
+}
+
+/* make bar blue to match active page in side menu */
+.quire-progress-bar div {
+  height: 15px;
+  background-color: #white;
+}
+
+/* cover typography */
+.quire-cover__hero .title {
+  font-weight: 800;
+  font-size: 6rem !important;
+}
+
+.quire-cover__hero .subtitle {
+    font-size: 5rem !important;
+    font-weight: 100 !important;
+    line-height: 1.0;
+  }
+
+.quire-cover__hero .contributor {
+  font-weight: 100;
+  font-style: italic;
+}
+
+.quire-page h1, .quire-page__header__title {
+  font-weight: 800;
+}
+
+/* make menu heading bold, sub menus normal weight */
+.quire-menu__list ul {
+  font-weight: 800;
+}
+.quire-menu__list li ul {
+  font-weight: normal;
+}
+
+/*deleted small diamonds on rule*/
+.quire-page__content .container .content hr::after {
+  content: unset;
+}
+
+/*changed diamonds to small dots after abstract. also made them white bc I couldn't get rid of them without also deleting the rule below*/
+.quire-page__abstract .container::after {
+  content: "•\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0•\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0•";
+  color: white;
+}
+
+.quire-page__header {
+  background-color: #white !important;
+}
+
+/*tightened up leading on the about page*/
+#about .quire-page__content .container .content p {
+    line-height: 1.5;
+}
+
+/*changed font weight to light and mafe type smaller*/
+#about .quire-page__content .container .content p {
+    font-weight: 400;
+    font-size: 1em;
+}
+
+/*added rules top and bottom of abstract*/
+.quire-page__abstract .container .content {
+    border-top: .25px solid #000;
+    border-bottom: .25px solid #000;
+    padding-top: 1rem;
+}
+
+/*made contributor photos square*/
+.quire-contributor__pic {
+    width: 100px;
+    border-radius: 0px;
+}
+
+/*change bckgrnd color to gray*/
+.quire-entry div.side-by-side div.quire-entry__content {
+      background-color: #D3D3D3;
+}
+
+/*Sarvani's Cover Changes!*/
+/*change nav button next style*/
+.quire-cover .quire-contents-buttons ul li.quire-nav-button.next {
+  background-color: #CF4747;
+  border-color: #CF4747;
+  border-radius: 17px;
+}
+
+.quire-cover .quire-contents-buttons ul li.quire-nav-button.next:hover {
+  border-color: #C39027;
+  background-color: #C39027;
+  border-radius: 18px;
+}
+
+/*darker shade: #DFA52D*/
+
+/*
+.quire-contents-buttons li.quire-nav-button .nav-title {
+  color: #CF4747;
+}
+
+.quire-cover .quire-contents-buttons ul li.quire-nav-button svg{
+  fill: #CF4747;
+}
+*/
+
+/*change scroll-down button style*/
+.quire-cover__more .hero-more {
+  background-color: #2f50b2;
+}
+
+/*change entire background color of cover section*/
+.quire-cover section.quire-page__content .container.is-fluid .content {
+  background-color: #DAB3B3;
+}
+
+.quire #main {
+  background-color: #DAB3B3;
+}
+
+/*removing the ugly transparent background*/
+.hero-body .container.is-fluid {
+  background: transparent;
+}
+
+/*adding a background image*/
+
+/*
+.quire-page__content {
+  background-image: url("kalamkari.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 3500px 3500px;
+  opacity: 0.7;
+}
+
+.quire-page__content .container .content {
+  opacity: 1;
+}
+*/
+
+.quire-cover___overlay {
+  background-size: auto;
+}
+
+.quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .section.quire-page__content {
+  background-color: #C39027;
+}
+
+.quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .quire-page__header.hero {
+  background-color: #C39027;
+}
+
+.quire__primary #intro {
+   background-image: url("family-picture-1.png");
+ }
+
+#main.quire-page .quire-page--frontmatter .quire-splash .quire-page__header .hero  .hero-image {
+  background-color: transparent;
+}
+
+#main.quire-page .quire-page--frontmatter .quire-splash .section .quire-page__content {
+  background-color: transparent;
+}
