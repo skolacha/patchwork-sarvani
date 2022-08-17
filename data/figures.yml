@@ -33,28 +33,28 @@ figure_list:
   - id: "rk-fig1"
     label:
     src: figures/rk-fig1.png
-    caption: "Pink and indigo naturally dyed Pedana Kalamkari sari from Metaphor Racha collection."
+    caption: "Naturally dyed Pedana Kalamkari sari from Metaphor Racha collection."
     credit: "Sarvani Kolachana. Ravi Kiran Metaphor Racha Collection."
   - id: "rk-fig2"
     label:
     src: figures/rk-fig2.png
-    caption: "Green and brown naturally dyed Pedana Kalamkari sari from Metaphor Racha collection."
-    credit: "Sarvani Kolachana. Ravi Kiran Metaphor Racha Collection."
+    caption: "Pink and indigo naturally dyed Pedana Kalamkari sari."
+    credit: "Sarvani Kolachana/Ravi Kiran Metaphor Racha Collection."
   - id: "rk-fig3"
     label:
     src: figures/rk-fig3.png
-    caption: "Red, green, and yellow naturally dyed Pedana Kalamkari sari from Metaphor Racha collection."
-    credit: "Sarvani Kolachana. Ravi Kiran Metaphor Racha Collection."
+    caption: "Green and brown naturally dyed (Metaphor Racha) Pedana Kalamkari sari."
+    credit: "Sarvani Kolachana/Ravi Kiran Metaphor Racha Collection."
   - id: "rk-fig4"
     label:
     src: figures/rk-fig4.png
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Red, green, and yellow naturally dyed (Metaphor Racha) Pedana Kalamkari sari."
+    credit: "Sarvani Kolachana/Ravi Kiran Metaphor Racha Collection."
   - id: "rk-fig5"
     label:
     src: figures/rk-fig5.png
-    caption: "Walker Evans. *Washroom in the Dog Run of the Burroughs Home, Hale County, Alabama*, 1936."
-    credit: "The J. Paul Getty Museum, Los Angeles"
+    caption: "Red and indigo naturally dyed (Metaphor Racha) Pedana Kalamkari sari."
+    credit: "Sarvani Kolachana/Ravi Kiran Metaphor Racha Collection."
   - id: "lotus-fig1a"
     label: "Figure 7"
     src: figures/lotus-fig1a.jpg
