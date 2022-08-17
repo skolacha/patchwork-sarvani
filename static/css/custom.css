@@ -136,9 +136,8 @@
   background: transparent;
 }
 
-/*adding a background image*/
+/*adding a background image*
 
-/*
 .quire-page__content {
   background-image: url("kalamkari.png");
   background-repeat: no-repeat;
@@ -152,10 +151,12 @@
 }
 */
 
+/* making cover image full size */
 .quire-cover___overlay {
   background-size: auto;
 }
 
+/*adding background color to contents page */
 .quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .section.quire-page__content {
   background-color: #C39027;
 }
@@ -163,3 +164,30 @@
 .quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .quire-page__header.hero {
   background-color: #C39027;
 }
+
+/*adding splash image to background of preface and changing header font*/
+.quire-page.quire-page--frontmatter.quire-splash {
+  background-image: url("family-picture-1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+ }
+
+.quire-page__header #preface {
+  color: #CF4747;
+  position: relative;
+}
+
+.quire-splash .quire-page__content .container .content {
+  background-color: #DAB3B3;
+}
+
+/*
+
+removing borders from images
+
+.quire-figure {
+  border-top-width: 0;
+  border-bottom-width: 0;
+}
+*/
