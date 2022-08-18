@@ -11,9 +11,9 @@ abstract:
 
 {{< q-figure id="ff-fig1" >}}
 
-As we reach the end of our patchwork quilt, note this, reader: to attempt to summarize kalamkari with the term ‘feminine fabric’ does a disservice to the hundreds of artisans who have contributed to the evolution of the art form over thousands of years. The story I have retold here is a small, subjective reading of a vast, sprawling history.
+As we reach the end of our patchwork quilt, note this, reader: to attempt to summarize kalamkari with the term "feminine fabric" does a disservice to the hundreds of artisans who have contributed to the evolution of the art form over thousands of years. The story I have retold here is a small, subjective reading of a vast, sprawling history.
 
-What can be said, is that women from all over the world were responsible for kalamkari’s popularity, in ways that both uplifted and endangered the original artisans. Now, the makers of these incredible cloths are all invisible, washed away by the imposition of Eurocentric texts and Western lenses that have fed scholarly debate for the past decades. Only now are Indian voices re-emerging, taking back the narrative.
+What can be said is that women from all over the world were responsible for kalamkari’s popularity, in ways that both uplifted and endangered the original artisans. Now, the makers of these incredible cloths are all invisible, washed away by the imposition of Eurocentric texts and Western lenses that have fed scholarly debate for the past decades. Only now are Indian voices re-emerging, taking back the narrative.
 
 So as a tribute to the imaginary women who may have labored over these cloths and inserted their own lives into these fabrics, I want to repeat textile scholar Rahul Jain’s words here:
 
