@@ -123,6 +123,21 @@
   font-weight: 400;
   font-style: normal; }
 
+@font-face {
+  font-family: "Kumar Outline Regular";
+  src: url(/fonts/kumar-one-outline.ttf);
+  font-weight: 400;
+  font-style: normal; }
+
+@font-face {
+  font-family: "DM Sans Regular";
+  src: url(/fonts/dm-sans.ttf);
+  font-weight: 400;
+  font-style: normal; }
+
+/**
+* Load material icon font
+*/
 /**
 * Load material icon font
 */
@@ -8204,7 +8219,7 @@ html {
     .quire-contents-list.grid .menu-list ul .page-item .card.image .card-content {
       padding: 0.1875in 0;
       font-size: 1.25rem;
-      font-family: "Noto Sans", sans-serif; }
+      font-family: "DM Sans Regular", sans-serif; }
     .quire-contents-list.grid .menu-list ul .page-item .card.image img {
       max-height: 1.25in;
       width: auto; }
@@ -8324,7 +8339,7 @@ html {
       display: none; } }
 
 .quire-navbar {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "DM Sans Regular", sans-serif;
   font-weight: 400;
   font-size: .875em;
   position: -webkit-sticky;
@@ -8365,7 +8380,7 @@ html {
   height: 5px;
   -webkit-transition: all .25s ease;
   transition: all .25s ease;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "DM Sans Regular", sans-serif;
   font-size: 0.75rem;
   background-color: #d0dbde;
   border-bottom: none; }
@@ -8563,7 +8578,7 @@ html {
   margin-left: 0; }
 
 .quire-menu {
-  font-family: "Noto Sans", sans-serif;
+  font-family: "DM Sans Regular", sans-serif;
   line-height: 1.25; }
   .quire-menu .arrow {
     display: none; }
@@ -8631,7 +8646,7 @@ html {
     .quire-menu__footer .quire-copyright {
       padding: 0 .5em; }
   .quire-menu .page-item a, .quire-menu .section-item a {
-    font-family: "Noto Sans", sans-serif; }
+    font-family: "DM Sans Regular", sans-serif; }
     .quire-menu .page-item a.active, .quire-menu .section-item a.active {
       margin-left: -1.25em;
       border-left: 4px solid #CF4747;
@@ -8702,7 +8717,7 @@ html {
     border-bottom: 1px solid #333333;
     border-radius: 0; }
   .quire-search__inner__list-item {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "DM Sans Regular", sans-serif;
     margin: 1.5rem 0; }
     .quire-search__inner__list-item a {
       display: block;
@@ -8819,7 +8834,7 @@ html {
     font-size: 1.5rem;
     line-height: 1.25; }
   .quire-page__header__contributor {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "DM Sans Regular", sans-serif;
     font-weight: 400;
     font-style: italic;
     margin-top: 3rem;
@@ -8843,7 +8858,7 @@ html {
     font-weight: 400;
     line-height: 1.4; }
   .quire-page__content {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "DM Sans Regular", sans-serif;
     font-size: 1em;
     line-height: 1.78;
     font-weight: 400;
@@ -9453,7 +9468,7 @@ html {
   color: #fff;
   border-width: 0px;
   border-radius: 2px;
-  font-family: "Noto Sans", sans-serif;
+  font-family: "DM Sans Regular", sans-serif;
   font-size: 1rem !important;
   padding: 0 !important;
   width: 140px;
@@ -9476,7 +9491,7 @@ html {
     background-color: #EEF2F3; }
     .quire-cover .quire-page__content .container.is-fluid .content p {
       line-height: 2em;
-      font-family: "Noto Sans", sans-serif; }
+      font-family: "DM Sans Regular", sans-serif; }
   @media screen and (min-width: 1028px) {
     .quire-cover .quire-page__content .container.is-fluid {
       max-width: 900px;
@@ -9882,7 +9897,7 @@ html {
   .quire-figure__media-fallback iframe {
     position: relative; }
   .quire-figure__media-fallback h5.header {
-    font-family: "Noto Sans", sans-serif;
+    font-family: "DM Sans Regular", sans-serif;
     font-size: 0.85em;
     color: #000000;
     font-weight: 400;
@@ -10422,7 +10437,7 @@ div.multimedia {
       margin: 0 0.5in 1in; } }
 
 .quire-entry__tombstone {
-  font-family: "Noto Sans", sans-serif; }
+  font-family: "DM Sans Regular", sans-serif; }
   .quire-entry__tombstone a {
     color: #CF4747;
     border-bottom: 1px dotted #CF4747; }
@@ -10647,7 +10662,7 @@ div.multimedia {
 
 .quire-copyright {
   padding: 0 1em;
-  font-family: "Noto Sans", sans-serif; }
+  font-family: "DM Sans Regular", sans-serif; }
   .quire-copyright__icon {
     height: 2.5em;
     max-width: 100%; }
@@ -10781,7 +10796,7 @@ div.multimedia {
   overflow: auto;
   background: #ffffff;
   color: #333333;
-  font-family: "Noto Sans", sans-serif; }
+  font-family: "DM Sans Regular", sans-serif; }
   .quire-deepzoom .leaflet-table table {
     table-layout: auto; }
     .quire-deepzoom .leaflet-table table tr,
@@ -11072,7 +11087,7 @@ body > div.mfp-bg.mfp-ready {
       height: 3.25em;
       margin-top: 0;
       padding-top: .6em;
-      font-family: "Noto Sans", sans-serif;
+      font-family: "DM Sans Regular", sans-serif;
       font-size: 16px; }
     .quire-contents-buttons li.quire-nav-button.prev {
       margin-left: 0;

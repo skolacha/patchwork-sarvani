@@ -11,7 +11,7 @@ abstract:
 
 That day it was hot. The kind of hot where mosquitos don’t bother hovering but hang limply in the air like zombified clouds of dust. The kind of hot where your eyes are always pacing across the garden, looking for inky pockets of shade to slip into. The kind of hot where you buy a couple of earthen pots off a shopkeeper for 200 rupees to keep them (and him) from having to melt under the sun’s glare.
 
-When we came home, amakaiyya sat us down in the veranda and got us some paints and a paintbrush each. Then, when she was back in the kitchen, the fragrant smell of basmati and Bisebellebath wafting through the clumpy air, Saranya suggested we stack the pots. It was more efficient and I’d have more control—being the elder one, a whole eight years, I knew these things—so we placed hers atop mine and got to work.
+When we came home, amakaiyya sat us down in the veranda and got us some paints and a paintbrush each. Then, when she was back in the kitchen, the fragrant smell of basmati and Bisebellebath wafting through the clumpy air, Saranya suggested we stack the pots. It was more efficient and I’d have more control—being the elder one, a whole six years, I knew these things—so we placed hers atop mine and got to work.
 
 In the kitchen, amakaiyya was clattering around; through the screen door we could see her setting the pressure cooker, tossing ingua and pusupu into a steel ginni and turning up the flame. A gentle breeze slid by and cooled the sweat on our backs.
 
@@ -29,7 +29,7 @@ Anyway, by the time amakaiyya found us, my hiccup-sobs had morphed into wails. H
 
 But I could not answer over the white ringing of tragedy in my ears. I faintly registered her prodding at me, asking me to stop and tell her what was wrong, then chiding me when she realized what we had done. But I couldn’t let up: I was hungry, I was hot, and now I had lost my pots.
 
-She grabbed my mother’s arm and yanked: that got my attention. My wails went somewhere that could only be classified as supersonic. In my peripheral vision, pigeons flapped wildly away, and the houseflies beat their wings furiously, like the air was some sort of invisible soundproofing mechanism—that if they could just get enough distance, a bulletproof barrier would be erected against my toddler tears.
+She grabbed my mother’s arm and yanked: that got my attention. My wails went somewhere that could only be classified as supersonic. In my peripheral vision, pigeons flapped wildly away, and the houseflies beat their wings furiously, like the air was some sort of invisible soundproofing mechanism—that if they could just get enough distance, a bulletproof barrier would be erected against my tears.
 
 “If you don’t stop crying, I’ll lock Sujatha in the bathroom!”
 

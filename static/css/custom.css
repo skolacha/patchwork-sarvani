@@ -21,18 +21,21 @@
 /* cover typography */
 .quire-cover__hero .title {
   font-weight: 800;
-  font-size: 6rem !important;
+  font-size: 8rem !important;
+  color: #FEF6EB;
 }
 
 .quire-cover__hero .subtitle {
     font-size: 5rem !important;
     font-weight: 100 !important;
     line-height: 1.0;
+    color: #FEF6EB;
   }
 
 .quire-cover__hero .contributor {
   font-weight: 100;
   font-style: italic;
+  display: none;
 }
 
 .quire-page h1, .quire-page__header__title {
@@ -191,3 +194,24 @@ removing borders from images
   border-bottom-width: 0;
 }
 */
+
+/*positioning of cover title/subtitle*/
+.quire-cover__hero-body.hero-body .container.is-fluid {
+  position: relative;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.quire-cover__hero-body.hero-body .title {
+  font-size: 10rem;
+}
+
+/*rounding button corners*/
+.quire-contents-buttons li.quire-nav-button.next {
+  border-radius: 18px;
+}
+
+.quire-contents-buttons li.quire-nav-button.prev {
+  border-radius: 18px;
+}

@@ -162,6 +162,33 @@
   font-style: normal;
 }
 
+////
+// Kumar One Outline
+// https://fonts.google.com/specim en/Kumar+One+Outline?query=Indian+Type+Foundry
+//
+// Kumar Outline Regular
+@font-face {
+  font-family: "Kumar Outline Regular";
+  src: url("../fonts/kumar-one-outline/kumar-one-outline.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+////
+// DM Sans
+// https://fonts.google.com/specimen/DM+Sans
+//
+// DM Sans Regular
+@font-face {
+  font-family: "DM Sans Regular";
+  src: url("../fonts/dm-sans/dm-sans.ttf");
+  font-weight: 400;
+  font-style: normal;
+}
+
+/**
+* Load material icon font
+*/
 /**
 * Load material icon font
 */
