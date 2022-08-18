@@ -86,68 +86,68 @@ figure_list:
   - id: "boteh-fig1"
     label:
     src: figures/boteh-fig1.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Dorukha kalmkari cotton mat, with natural dyes, for Iranian market. 20th century."
+    credit: "Museum of Art & Photography."
   - id: "boteh-fig2"
     label:
     src: figures/boteh-fig2.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Qanat or palampore of painted cotton chintz. 18th century."
+    credit: "Victoria & Albert Museum"
   - id: "boteh-fig3"
     label:
     src: figures/boteh-fig3.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "George Haité, design for a woven paisley shawl in Britain. ca. 1850."
+    credit: "Victoria & Albert Museum."
   - id: "boteh-fig4"
     label:
     src: figures/boteh-fig4.jpeg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton kalamkari prayer mat, with natural dyes. 20th century."
+    credit: "Museum of Art & Photograpy."
   - id: "boteh-fig5"
     label:
     src: figures/boteh-fig5.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton kalamkari prayer mat, with natural dyes, for Iranian market. 20th century."
+    credit: "Museum of Art & Photography."
   - id: "boteh-fig6"
     label:
     src: figures/boteh-fig6.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Hanging, printed and glazed plain weave cotton, featuring paisley. 19th century."
+    credit: "Victoria & Albert Museum."
   - id: "boteh-fig7"
     label:
     src: figures/boteh-fig7.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
-  - id: "boteh-fig8"
-    label:
-    src: figures/boteh-fig8.jpeg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton altar cloth foregrounding Christ/Eternal Father. early 18th century."
+    credit: "Victoria & Albert Museum."
   - id: "boteh-fig9"
     label:
     src: figures/boteh-fig9.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton textile fragment, printed and mordant- and resist-dyed, possibly made in Gujarat or Coromandel Coast. 17th century."
+    credit: "Victoria & Albert Museum."
+  - id: "boteh-fig8"
+    label:
+    src: figures/boteh-fig8.jpeg
+    caption: "Cotton kalamkari mat, with natural dyes. 20th century."
+    credit: "Museum of Art & Photography."
   - id: "boteh-fig10"
     label:
     src: figures/boteh-fig10.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton Dorukha kalamkari prayer mat, with natural dyes, for Iranian market. 20th century."
+    credit: "Museum of Art & Photograpy."
   - id: "boteh-fig11"
     label:
     src: figures/boteh-fig11.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption:
+    credit:
   - id: "boteh-fig12"
     label:
     src: figures/boteh-fig12.jpeg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Cotton kalamkari mat, with natural dyes. 20th century."
+    credit: "Museum of Art & Photograpy."
   - id: "boteh-fig13"
     label:
     src: figures/boteh-fig13.jpg
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
+    caption: "Rectangular hanging or palampore of painted and resist-dyed cotton chintz. 1750—1775."
+    credit: "Victoria & Albert Museum."
   - id: "amma-fig1"
     label:
     src: figures/amma-fig1.JPG
