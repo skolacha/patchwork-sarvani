@@ -21,18 +21,21 @@
 /* cover typography */
 .quire-cover__hero .title {
   font-weight: 800;
-  font-size: 6rem !important;
+  font-size: 8rem !important;
+  color: #FEF6EB;
 }
 
 .quire-cover__hero .subtitle {
     font-size: 5rem !important;
     font-weight: 100 !important;
     line-height: 1.0;
+    color: #FEF6EB;
   }
 
 .quire-cover__hero .contributor {
   font-weight: 100;
   font-style: italic;
+  display: none;
 }
 
 .quire-page h1, .quire-page__header__title {
@@ -47,16 +50,18 @@
   font-weight: normal;
 }
 
-/*deleted small diamonds on rule*/
+/*deleted small diamonds on rule
 .quire-page__content .container .content hr::after {
   content: unset;
 }
+*/
 
-/*changed diamonds to small dots after abstract. also made them white bc I couldn't get rid of them without also deleting the rule below*/
+/*changed diamonds to small dots after abstract. also made them white bc I couldn't get rid of them without also deleting the rule below
 .quire-page__abstract .container::after {
   content: "•\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0•\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0•";
   color: white;
 }
+*/
 
 .quire-page__header {
   background-color: #white !important;
@@ -136,9 +141,8 @@
   background: transparent;
 }
 
-/*adding a background image*/
+/*adding a background image*
 
-/*
 .quire-page__content {
   background-image: url("kalamkari.png");
   background-repeat: no-repeat;
@@ -152,10 +156,12 @@
 }
 */
 
+/* making cover image full size */
 .quire-cover___overlay {
   background-size: auto;
 }
 
+/*adding background color to contents page */
 .quire__primary .quire-page.quire-page--list.quire-page--frontmatter.quire-contents .section.quire-page__content {
   background-color: #C39027;
 }
@@ -164,14 +170,77 @@
   background-color: #C39027;
 }
 
-.quire__primary #intro {
-   background-image: url("family-picture-1.png");
+/*adding splash image to background of preface and changing header font*/
+.quire-page.quire-page--frontmatter.quire-splash {
+  background-image: url("family-picture-1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
  }
 
-#main.quire-page .quire-page--frontmatter .quire-splash .quire-page__header .hero  .hero-image {
-  background-color: transparent;
+.quire-page__header #preface {
+  color: #CF4747;
+  position: relative;
 }
 
-#main.quire-page .quire-page--frontmatter .quire-splash .section .quire-page__content {
-  background-color: transparent;
+.quire-splash .quire-page__content .container .content {
+  background-color: #DAB3B3;
+}
+
+/*
+
+removing borders from images
+
+.quire-figure {
+  border-top-width: 0;
+  border-bottom-width: 0;
+}
+*/
+
+/*positioning of cover title/subtitle*/
+.quire-cover__hero-body.hero-body .container.is-fluid {
+  position: relative;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+.quire-cover__hero-body.hero-body .title {
+  font-size: 10rem;
+}
+
+/*rounding button corners*/
+.quire-contents-buttons li.quire-nav-button.next {
+  border-radius: 18px;
+}
+
+.quire-contents-buttons li.quire-nav-button.prev {
+  border-radius: 18px;
+}
+
+/*quire content buttons colors*/
+.quire-page.quire-page--list.quire-page--frontmatter.quire-contents .quire-contents-buttons li.quire-nav-button.next {
+  background-color: #2f50b2;
+  border-color: #2f50b2;
+}
+
+.quire-page.quire-page--list.quire-page--frontmatter.quire-contents .quire-contents-buttons li.quire-nav-button.next:hover {
+  background-color: #99ccff;
+  border-color: #99ccff;
+}
+
+/*removing underlines for contents page*/
+.quire-contents-list a {
+  border-bottom-width: 0px;
+}
+
+/*changing quotation styles*/
+.quire-page__content .container .content blockquote p {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #CF4747;
+}
+
+.quire-page__content .container .content blockquote p:first-child:before {
+  color: #CF4747;
 }
