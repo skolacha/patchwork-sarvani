@@ -1,5 +1,5 @@
 ---
-label: 
+label:
 title: The Cab Driver, The Suitcases, and The Henna
 subtitle:
 weight: 30
@@ -14,9 +14,9 @@ There are three things to remember about getting a ride from the airport as a br
 
 2. Deck yourself out, head-to-toe, in college merch; the goal here is to look like a walking, talking, mega-cringe advertisement for all of the crappy sweatshirts and overpriced basketball shorts in your campus store. That way, you’re effectively using every inch of skin as real-estate to market your availability to share Lyfts with other broke college students who didn’t have the forethought to book in advance.
 
-Like all carefully-laid plans, both steps went out the window once I departed through the glass doors into the hot LA air. Scrambling, I pulled up the familiar app, and twenty minutes later I was sprawled in the back of a (relatively cheaper) Uber from LAX to Westwood at 9am on a Saturday, sweating like an Indian mother flipping parathas on a gas stove in May: not pretty. It was as I was attempting to evaporate the rolls of sweat on my neck simply with the power of my mind, that the driver began to make small talk.
+Like all carefully laid plans, both steps went out the window once I departed through the glass doors into the hot LA air. Scrambling, I pulled up the familiar app, and twenty minutes later I was sprawled in the back of a (relatively cheaper) Uber from LAX to Westwood at 9am on a Saturday, sweating like an Indian mother flipping parathas on a gas stove in May: not pretty. It was as I was attempting to evaporate the rolls of sweat on my neck simply with the power of my mind, that the driver began to make small talk.
 
-After we’d traversed familiar chit chat territory—LA weather, what college I went to, and the like—he asked me where I was from. I knew that the conversation had been building up to this point, but I still wasn’t ready to share the ambiguity of what ‘home’ meant for me with a relative stranger. Still, I recited my pre-choreographed answer.
+After we’d traversed familiar chit-chat territory—LA weather, what college I went to, and the like—he asked me where I was from. I knew that the conversation had been building up to this point, but I still wasn’t ready to share the ambiguity of what ‘home’ meant for me with a relative stranger. Still, I recited my pre-choreographed answer.
 
 “Oh, well, I was born in the Bay and lived there for a while, but I went to high school in India.”
 
@@ -52,7 +52,7 @@ The fine orange-brown lattice traced my wrists, crisscrossing vein-like on the b
 
 “What is that?” He asked, pivoting wildly to check on the road when a car behind us honked angrily.
 
-“It’s called henna”, I said. “It’s like a…liquid, you apply from a cone to create patterns on your hands.”
+“It’s called henna,” I said. “It’s like a…liquid, you apply from a cone to create patterns on your hands.”
 
 “Oh, but it’s not permanent though?”
 
@@ -62,4 +62,4 @@ He glanced back, and grinned, relieved. “Good. Pretty girl like you shouldn’
 
 I smiled back tersely, nausea and indignation colliding in a sick rush in my belly. I didn’t know how to say that this was my culture; that I had felt restless my entire life and drawing attention to the brown of my skin, the delicate frame I’d inherited from my dad’s sisters, the mehendi dripping down my fingers, was the only way to feel like I was on firm ground; that I was worried I’d be a nomad forever, trudging and trudging through an endless, scorching desert. I didn’t know how to say any of that.
 
-So instead, I only said, “What a relief!” Then I hunched down into the seat, burying my henna-d skin under my thighs. As though if I squeezed hard enough, they’d turn white.
+So instead, I only said, “What a relief!” Then I hunched down into the seat, burying my hennaed skin under my thighs. As though if I squeezed hard enough, they’d turn white.

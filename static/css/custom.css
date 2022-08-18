@@ -231,3 +231,14 @@ removing borders from images
 .quire-contents-list a {
   border-bottom-width: 0px;
 }
+
+/*changing quotation styles*/
+.quire-page__content .container .content blockquote p {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #CF4747;
+}
+
+.quire-page__content .container .content blockquote p:first-child:before {
+  color: #CF4747;
+}

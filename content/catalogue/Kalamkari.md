@@ -9,7 +9,7 @@ object:
   - id: 1
 ---
 
-Kalamkari (from the Persian ghalamkari) refers to the thousands-of-years-old textile tradition of putting a pen (kalam) to cloth and working (kari) it. Practiced largely along what came to be referred to as the Coromandel Coast, the art form eventually diverged into Srikalahasti and Pedana Kalamkari after the respective areas where it was practiced. The former involved the conventional methods of pen and dye, and often involved the circulation of Hindu motifs (lotus, peacock, etc.). The latter used block-printing and imbued works with Islamic themes and influences that were owed to Mughal patronage of the craft between the early 16th and mid 18th centuries.
+Kalamkari (from the Persian *ghalamkari*) refers to the thousands-of-years-old textile tradition of putting a pen (*kalam*) to cloth and working (*kari*) it. Practiced largely along what came to be referred to as the Coromandel Coast, the art form eventually diverged into Srikalahasti and Pedana Kalamkari, after the respective areas where it was practiced. The former involved the conventional methods of pen and dye, and often involved the circulation of Hindu motifs (lotus, peacock, etc.). The latter used block-printing and imbued works with Islamic themes and influences that were owed to Mughal patronage of the craft between the early 16th and mid 18th centuries.
 
 {{< q-figure id="kalamkari-fig1" >}}
 

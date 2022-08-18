@@ -11,6 +11,12 @@ object:
 
 {{< q-figure id="photo-podcast" >}}
 
+>They burst out like seeds from a crackling, overripe pod into the veranda, with such wild, maniacal yells that she retreated to her bath and the shower of talcum powder and the fresh sari that were to help her face the summer evening
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Anita Desai, Games at Twilight)**
+
+***
+
 My mom and I argue a lot. Like a lot. Enough to prompt my sister to say:
 
 “At one point, it was like every single day. Morning and evening.”
@@ -19,9 +25,7 @@ So, I didn’t expect anything to change once I moved to college last year. But 
 
 So, yeah. When I’m on campus, my mom and I don’t fight that much anymore. When I come home? That’s…a different story.
 
-“At first it used to start with you getting moody and Amma giving you a lecture. You would just murmur and not say anything to her face. Like when we were younger. And then became both of you shouting at each other. And now, I think it’s died down a bit.”
-
-“The last time you came, I was so surprised, cause you guys didn’t fight at all. I think there was just a little squabble for a bit. But you guys didn’t fight at all, so…very impressed.”
+“At first it used to start with you getting moody and Amma giving you a lecture. You would just murmur and not say anything to her face. And then became both of you shouting at each other. And now, I think it’s died down a bit.”
 
 Our arguments have evolved over the years. Sometimes, it makes me feel more mature—instead of her chiding me for leaving my stinky socks in the middle of the room when I come home from school, we bicker ‘intellectually’ now. Like, whether my mom—having grown up in a rural village in India overrun with monkeys and lacking a steady electricity supply—is too conservative for the liberal landscape of California.  
 
@@ -63,15 +67,29 @@ My mom’s face softens slightly.
 
 “So that is my favorite.”
 
+[Music]
+
 “I used to buy bananas for my grandmother. While coming [home], one street, one place, there are no houses. And lots of trees. So you know, definitely the monkeys will be there.”
 
-“So you should be very careful, if they see a little bit of banana, they’ll jump on you. I used to be so scared. I used to look around all the time and if I see a little bit of movement on the trees, I used to run [and] jump into the house. You are helpless, basically.”
+“So you should be very careful, if they see a little bit of banana, they’ll jump on you. I used to be so scared. I used to look around all the time and if I see a little bit of movement on the trees, I used to run [and] jump into the house.”
+
+[Music]
 
 My mother’s bathroom roof was shared with the neighbors. Often, monkeys would come up and grab something—a sari, a blouse, a sock—off the clothesline and taunt my mom’s family with it. You’d catch the jeering red face through the bathroom window and know: the game was afoot.
 
 “We will be shouting here with sticks or something. They’ll sign [to] you that I’m going to tear it. If you do anything, I’m going to tear your clothes like this.”
 
 “Then you need to show them either some rice [or] food. That is a strategic thing. You should put that food in the other direction so that when it comes for that food, you need to go and grab that food.”
+
+[Music]
+
+***
+***
+
+###### Note: The full audio work will be dropping on Sunday, August 21! Below is a full transcript of the audio, giving you a preview of what is to come!
+
+***
+***
 
 “There is one scary thing I remember. I was maybe 11 or 12 years old.”
 
@@ -151,7 +169,7 @@ It’s about a guy named Rahul, played by this really famous actor in India, Sha
 
 In the scene [play noise in background], Shah Rukh Khan’s parents are lured to his city by his younger brother who plans to bring the family together. As soon as the parents’ plane touches down, the mother is hit with the feeling that Rahul is nearby. She has no proof, not a shred of evidence about his whereabouts since they cut off contact. But she is sure of it—you can see the recognition dawn on her face.
 
-[K3G scene]
+[Scene from movie]
 
 This, my mom reassures me, is not how her own reunions with Ammamma would go.
 
@@ -171,7 +189,7 @@ Again, my mother gesticulates, tracing with her finger in the air, the distance 
 
 Well, there go my hopes of a movie adaptation of this podcast.
 
-[Music break]
+[Music]
 
 Still, I can’t help but want something to cling on to—to make this foreign thing seem familiar, a part of my world. Then, when my mom gives me the very thing I want—I don’t believe her.
 
@@ -295,7 +313,7 @@ This, too, is a familiar kind of frustration. Both my mom and I are people who w
 
 “I learned that one basically by admiring the way my mom did. Not what she created. Basically, the admiration for her skill. Looking at her hands, how fast and quick.”
 
-[Music Break]
+[Music]
 
 “But the one thing is, that crochet hook and needle is with me. You know, that one is for my memory. She’s like, you are the only one.”
 
@@ -345,7 +363,7 @@ I’m surprised. I’d never put it together like that, but when my sister lays 
 
 “I don’t know! Like I don’t really know Amma and Ammamma’s—[laughing]—like relationship that well.”
 
-[Music break]
+[Music]
 
 What my sister really means is that Ammamma’s life revealed itself in the cracks, that our Amma was maybe only beginning to piece it together now, nearly two decades later. So of course she was protective of it—like a jigsaw puzzle that you had just put together that others were trying to rip apart and take for themselves; except that, oh yeah: the stakes were so much higher.
 
@@ -361,7 +379,7 @@ What my sister really means is that Ammamma’s life revealed itself in the crac
 
 Yeah—that thing my mom does? Getting all sarcastic and jokey when things are too heavy? It’s definitely a family thing.
 
-[Music Break]
+[Music]
 
 “Do you think it’s also hard for Amma? Because—like the reason that I think I also grew closer is because I started seeing Amma as a person. And that was jarring for me. But still being someone’s daughter and obviously thinking of them as your mom—it’s kind of like a struggle between seeing them as a fully formed person with their own—just—life and then seeing them as your mom. And do you think that Amma’s still in like, ‘she’s my mom’, and it’s jarring because you also have to see them as a person?”
 
@@ -373,7 +391,7 @@ Yeah—that thing my mom does? Getting all sarcastic and jokey when things are t
 
 “…is a mom. Yeah.”
 
-[Music Break]
+[Music]
 
 When I play this back for myself now, I notice the things I didn’t realize we were saying during our conversation. How my sister’s tone vacillates between certainty and uncertainty. How my words come out hesitating, because even as I was talking, I was questioning my own memories. And then, when my sister and I come to some sort of conclusion, having the weight of it settle on us—what we miss because we don’t talk about our mom like this, together, very often.
 
