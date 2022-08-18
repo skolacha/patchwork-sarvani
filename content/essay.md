@@ -1,5 +1,5 @@
 ---
-label: Beginnings
+label: 
 title: The Cab Driver, The Suitcases, and The Henna
 subtitle:
 weight: 30

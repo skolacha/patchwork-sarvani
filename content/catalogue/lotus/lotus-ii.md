@@ -1,6 +1,6 @@
 ---
 label:
-title: Lotus ii
+title: The Flowery Cosmos
 short_title: Lotus ii
 type: entry
 weight: 105

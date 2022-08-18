@@ -1,6 +1,6 @@
 ---
-label: vii
-title: Papai Amakaiyya iii.
+label: xii
+title: Green Thumbs and Sari Shops
 short_title: Papai iii.
 weight: 146
 object:

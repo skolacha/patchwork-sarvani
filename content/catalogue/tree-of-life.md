@@ -1,5 +1,5 @@
 ---
-label: vi
+label: viii
 title: The Tree of Life Motif
 short_title: Tree of Life
 type: entry

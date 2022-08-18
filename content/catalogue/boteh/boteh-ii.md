@@ -1,6 +1,6 @@
 ---
 label:
-title: Boteh ii
+title: The Cypress Tree
 short_title: Boteh ii
 type: entry
 weight: 119

@@ -1,6 +1,6 @@
 ---
-label: vii
-title: Papai Amakaiyya i.
+label: ix
+title: Ghee Pots
 short_title: Papai i.
 type: essay
 weight: 138       

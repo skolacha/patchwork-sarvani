@@ -1,6 +1,6 @@
 ---
 label:
-title: Lotus iii
+title: Stylizations Emerge 
 short_title: Lotus iii
 type: entry
 weight: 106

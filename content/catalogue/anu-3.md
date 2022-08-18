@@ -1,6 +1,6 @@
 ---
-label: v
-title: Anu Amakaiyya iii
+label: vii
+title: My Roomate's Black Cat
 short_title: Anu iii
 weight: 130
 object:

@@ -1,6 +1,6 @@
 ---
 label: iii
-title: My Amma's Amma
+title: My Amma's Patchwork
 short_title: Ammamma
 type: entry
 weight: 112

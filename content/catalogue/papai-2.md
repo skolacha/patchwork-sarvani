@@ -1,6 +1,6 @@
 ---
-label: vii
-title: Papai Amakaiyya ii.
+label: xi
+title: That Hot Summer Afternoon
 short_title: Papai ii.
 weight: 142
 object:
