@@ -148,41 +148,57 @@ figure_list:
     src: figures/boteh-fig13.jpg
     caption: "Rectangular hanging or palampore of painted and resist-dyed cotton chintz. 1750—1775."
     credit: "Victoria & Albert Museum."
+  - id: "tol-fig1"
+    label:
+    src: figures/tol-fig1.jpg
+    caption: "Hanging of painted kalamkari cotton. 18th century."
+    credit: "Victoria & Albert Museum."
+  - id: "tol-fig2"
+    label:
+    src: figures/tol-fig2.jpg
+    caption: "Palampore of painted and dyed cotton chintz, probably for Dutch/Sri Lankan market. 1720—1750."
+    credit: "Victoria & Albert Museum."
+  - id: "tol-fig3"
+    label:
+    src: figures/tol-fig3.jpg
+    caption: "Cotton chintz, mordant- and resist-dyed with areas of over-painting, for western market. 1700—1725."
+    credit: "Victoria & Albert Museum."
+  - id: "tol-fig4"
+    label:
+    src: figures/tol-fig4.jpg
+    caption: "Palampore of painted and dyed cotton chintz, for western market. 1750—1775."
+    credit: "Victoria & Albert Museum."
+  - id: "tol-fig5"
+    label:
+    src: figures/tol-fig5.jpg
+    caption: "Palampore in four parts, including two border fragments and a side panel. late 18th—early 19th century."
+    credit: "Victoria & Albert Museum."
+  - id: "tol-fig6"
+    label:
+    src: figures/tol-fig6.jpg
+    caption: "Palampore of painted and dyed cotton chintz, of Chinese trees. 1775—1800."
+    credit: "Victoria & Albert Museum."
   - id: "amma-fig1"
     label:
     src: figures/amma-fig1.JPG
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
   - id: "amma-fig2"
     label:
     src: figures/amma-fig2.JPG
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
   - id: "amma-fig3"
     label:
     src: figures/amma-fig3.JPG
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
   - id: "amma-fig4"
     label:
     src: figures/amma-fig4.JPG
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
   - id: "amma-fig5"
     label:
     src: figures/amma-fig5.JPG
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
   - id: "amma-fig6"
     label:
     src: figures/amma-fig6.JPG
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
   - id: "amma-fig7"
     label:
     src: figures/amma-fig7.JPG
-    caption: "Dorothea Lange. *Abandoned Dust Bowl Home*, about 1935–1940."
-    credit: The J. Paul Getty Museum, Los Angeles
   - id: "ff-fig1"
     label:
     src: figures/ff-fig1.jpeg
