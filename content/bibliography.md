@@ -1,7 +1,7 @@
 ---
 title: Bibliography
 weight: 205
-type: page
+type: essay
 ---
 
-{{< q-bibliography >}}
+Images from the Victoria and Albert Museum Collection, Museum of Art and Photography Collection, and Metropolitan Museum of Art Collection.

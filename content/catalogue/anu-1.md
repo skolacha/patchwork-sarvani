@@ -10,6 +10,10 @@ object:
 
 > Now I realize that she must indeed have been very attractive. Vestiges of that beauty remain. The skin is fine and delicate, even if it is crinkled like tissue paper. Her arms are still slim and firm, but the hands, with their branching of veins, seem incongruously large for those delicate arms.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Shashi Deshpande, Small Remedies)**
+
+<br>
+
 There are a set of pictures—that will never see the light of day, buried deep in the recesses of my GDrive to remain untouched by human hands for the next thousand years, if everything goes to plan—that were taken at my ammakkaiyya’s [aunt’s] house. You can’t tell from them that they’re taken there, because, as grainy selfies tend to be, they’re low-quality and focus on my face. But I can tell from the angle of one that I’m sitting on the sofa in front of the TV, or from the lighting on another that I am on the balcony overlooking a dusty main road that beats out the cacophonous squeal of auto-rickshaws greeting swerving motorcycles and speeding cars.
 
 They’re of me—at 10, at 11 after we’d moved to India, at 13, entering freshman year of high school—growing up. In some, I clutch rolls of sticky brown Cadburies in my fists, change for when the shopkeeper below didn’t have enough one-paisa coins. In others, my hair is cluttered with little strips of paper marking my most recent no-heat-curls obsession.

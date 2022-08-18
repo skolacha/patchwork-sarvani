@@ -205,7 +205,11 @@ figure_list:
     caption: "Section of wall hanging depicting figures in Persian/European dress, cotton, mordant-dyed and resist-dyed. 1640—1650."
     credit: "Victoria & Albert Museum."
 
-  - id: "photo-podcast"
+  - id: "photo-podcast-long-preview"
     media_id: 1325936755%3Fsecret_token%3Ds-jLeLPzTUWCh
+    media_type: soundcloud
+    caption: "As part of this project, I conducted interviews with my mom and sister, to try and get to the root of Amma's relationship with her mom. In this candid, charming, and oft-sarcastic oral retelling, I tap into the heart of our mother-daughter bond, and what it means to remember someone after they are gone."
+  - id: "photo-podcast"
+    media_id: 1326480523%3Fsecret_token%3Ds-SzMRZu6nubo
     media_type: soundcloud
     caption: "As part of this project, I conducted interviews with my mom and sister, to try and get to the root of Amma's relationship with her mom. In this candid, charming, and oft-sarcastic oral retelling, I tap into the heart of our mother-daughter bond, and what it means to remember someone after they are gone."

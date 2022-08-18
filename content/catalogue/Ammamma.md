@@ -15,7 +15,7 @@ object:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**(Anita Desai, Games at Twilight)**
 
-***
+<br>
 
 My mom and I argue a lot. Like a lot. Enough to prompt my sister to say:
 
@@ -45,8 +45,6 @@ And, well, in the quest to answer these questions, I ended up doing something en
 
 But—I’m getting ahead of myself. For now, let’s start at the beginning, with a village overrun with red monkeys, and a great grandmother who couldn’t see.
 
-***
-***
 ***
 
 When my mom was seven or eight years old, she spent a lot of time with her grandmother, an elderly, precocious woman whose eyesight and energy had dwindled over the years.
@@ -83,13 +81,11 @@ My mother’s bathroom roof was shared with the neighbors. Often, monkeys would 
 
 [Music]
 
-***
-***
+<br>
 
 ###### Note: The full audio work will be dropping on Sunday, August 21! Below is a full transcript of the audio, giving you a preview of what is to come!
 
-***
-***
+<br>
 
 “There is one scary thing I remember. I was maybe 11 or 12 years old.”
 
@@ -159,8 +155,6 @@ Either way, the resemblance was uncanny. Monkey or not, when children were being
 
 “They’ll hit on their head. One good bang!”
 
-***
-***
 ***
 
 There’s this scene from this one Bollywood movie my sister and I would watch over and over again, as˜ kids. The movie is called ‘Kabhi Kushi Kabhi Gham’, which translates literally to ‘Sometimes Happy Sometimes Sad’—it’s more poetic in Hindi, I swear!
@@ -247,8 +241,6 @@ My mom’s face crinkles up in amusement.
 
 “Nobody plays with him. I mean, everybody’s busy with their work, and he gets bored. She’s not interested in that, but only for Thathaiyya—for him—she used to play.”
 
-***
-***
 ***
 
 “She’s very crafty, even when she’s young”
@@ -345,8 +337,6 @@ This was what she put beneath the last piece of lace her mother had left to her,
 
 “All of this, I think, is because of my mom. Because she used to tell her daughter-in-laws: Not always kitchen work. Do some creative work. For a housewife, you can do always kitchen, cook, and clean. No that is not life. Do something else also.” 	
 
-***
-***
 ***
 
 “I think—Amma wasn’t really close to Ammamma, ok?”

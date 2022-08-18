@@ -50,16 +50,18 @@
   font-weight: normal;
 }
 
-/*deleted small diamonds on rule*/
+/*deleted small diamonds on rule
 .quire-page__content .container .content hr::after {
   content: unset;
 }
+*/
 
-/*changed diamonds to small dots after abstract. also made them white bc I couldn't get rid of them without also deleting the rule below*/
+/*changed diamonds to small dots after abstract. also made them white bc I couldn't get rid of them without also deleting the rule below
 .quire-page__abstract .container::after {
   content: "•\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0•\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0\00a0•";
   color: white;
 }
+*/
 
 .quire-page__header {
   background-color: #white !important;

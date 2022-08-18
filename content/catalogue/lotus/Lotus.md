@@ -18,11 +18,3 @@ Along the Coromandel coast, intricate lotus designs were often created by seamle
 Often, lotus roundels are described by textile historians in terms of their “uniquely voluptuous and appealing” (Jain, 45) forms that “evoke paradise itself” (Fotheringham, 40). The use of voluptuousness implies a gendered quality, or a sense of sexuality, that enshrouds the motif; in some sense, it may be applied to evoke the sort of sensual pleasure its owners (often European nations which had colonized India) seemed to enjoy through its luxuriousness. Arguably, however, it also reflects a predominantly Hindu understanding of the motif in relation to the Goddess of Prosperity, Lakshmi devi, as a symbol of fertility and beauty. Even today, Hindu families across various regions of India perform Lakshmi puja on the first Amavasya [new moon day] in the Kartik maasam [month of Kartik in the Vikram Samvat Hindu calendar]. Though floral imagery is often inherently tied to notions of femininity across cultures, viewing the lotus roundel as the seed that led to abstracted Mughal flower patterns helps account for the latter’s ties to the idea of womanhood within India and South Asia.
 
 {{< q-figure id="lotus-fig1b" >}}
-
-{{< q-class "backmatter" >}}
-
-## Bibliography
-
-Entries
-
-{{< /q-class >}}
