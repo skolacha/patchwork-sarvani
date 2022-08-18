@@ -215,3 +215,19 @@ removing borders from images
 .quire-contents-buttons li.quire-nav-button.prev {
   border-radius: 18px;
 }
+
+/*quire content buttons colors*/
+.quire-page.quire-page--list.quire-page--frontmatter.quire-contents .quire-contents-buttons li.quire-nav-button.next {
+  background-color: #2f50b2;
+  border-color: #2f50b2;
+}
+
+.quire-page.quire-page--list.quire-page--frontmatter.quire-contents .quire-contents-buttons li.quire-nav-button.next:hover {
+  background-color: #99ccff;
+  border-color: #99ccff;
+}
+
+/*removing underlines for contents page*/
+.quire-contents-list a {
+  border-bottom-width: 0px;
+}
