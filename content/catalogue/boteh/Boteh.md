@@ -6,7 +6,7 @@ type: essay
 weight: 118
 class: side-by-side
 object:
-  - id: 18
+  - id: 8
 ---
 
 From the Persian boteh motif littering Islamic prayer mats to the *trippy* bandana print during the Summer of Love, paisleys have a long and complex lineage. Deriving from Persian artisans’ imitation of cypress trees, the name paisley is a Western interjection, originating from “the high volume of imitation Kashmir shawls being produced on the Jacquard looms of Europe (notably in Paisley, Scotland…)” (Fotheringham 2019, 49). Realism gave way to geometric abstraction, kalamkari textiles “swiftly losing any element of naturalism as they turned into a pure buta [boteh or paisley] shape” (49) through iterative design processes.

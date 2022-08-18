@@ -41,3 +41,15 @@ object_list:
       - id: "tol-fig4"
       - id: "tol-fig5"
       - id: "tol-fig6"
+  - id: 7
+    figure:
+      - id: "lotus-fig1a"
+  - id: 8
+    figure:
+      - id: "boteh-fig1"
+  - id: 9
+    figure:
+      - id: "ff-fig1"
+  - id: 10
+    figure:
+      - id: "kalamkari-fig1"

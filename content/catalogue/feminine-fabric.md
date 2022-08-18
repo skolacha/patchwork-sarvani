@@ -4,7 +4,7 @@ title: The Feminine Fabric?
 short_title: Feminine Fabric
 weight: 150
 object:
-  - id: 50
+  - id: 9
 type: essay
 abstract:
 ---

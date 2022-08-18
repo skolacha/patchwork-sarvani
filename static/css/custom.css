@@ -244,3 +244,14 @@ removing borders from images
 .quire-page__content .container .content blockquote p:first-child:before {
   color: #CF4747;
 }
+
+/*adjusting catalogue spreads*/
+.card img {
+  object-fit: cover;
+  width: 21vw;
+  height: 21vw;
+}
+
+.quire-cover__overlay {
+  background-size: auto;
+}

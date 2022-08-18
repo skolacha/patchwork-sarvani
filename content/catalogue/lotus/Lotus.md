@@ -6,7 +6,7 @@ type: essay
 weight: 104
 class: side-by-side
 object:
-  - id: 4
+  - id: 7
 ---
 
 A lotus motif “is symbolic of purity, beauty, knowledge, and enlightenment. Identifiable by its layered set of petals, though abstracted by artists in myriad ways, it has sacred connotations for Hindus, Jains, Buddhists, and Sikhs” (Fotheringham 2019, 40).
